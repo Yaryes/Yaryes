@@ -1,4 +1,9 @@
 ### Buenas! Mi nombre es Carlos, Soy desarrollador Full-Stack🛰️
-https://img.shields.io/badge/HTML%2FCSS-black
+### ![Static Badge](https://img.shields.io/badge/HTML%2FCSS-black) ![Static Badge](https://img.shields.io/badge/PHP-purple?color=purple)  ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?color=yellow)
+
+
+
+
+
 
 
