@@ -5,7 +5,7 @@
 
 - :muscle: I am currently working as IT Support CPA.
   
-- 🌱 Actualmente estoy aprendiendo **Ciencia de datos**
+- 🌱 I am currently learning **Data Science**
   
 - 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
 
