@@ -1,15 +1,57 @@
-Analista programador, Desarrollador Full-Stack.
+<h1 align="center">Hi 👋, I'm Carlos Antonio</h1>
+<h3 align="center">Systems Analyst, Full-Stack Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/carlosantonioyaryes) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CarlosCYaryes) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-antonio-1b51121bb) 
+- :muscle: I am currently working as IT Support CPA.
+  
+- 🌱 Actualmente estoy aprendiendo **Ciencia de datos**
+  
+- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
 
-- :muscle: Actualmente trabajo como Soporte TI CPA.
-- :white_check_mark: 2 Años desarrollando aplicaciones web.
-- :moneybag: Compartamos ideas de desarrollo de aplicaciones, carlosantonioyaryes@gmail.com
-- :zap:  Amante del café y Moster.
+- 💬 Ask me about **JS, ReactJS, Python, PHP and Laravel**
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![PHP](https://img.icons8.com/color/30/php.png) ![Github](https://img.icons8.com/material-outlined/30/github.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)
+- 📫 How to reach me **carlosantonioyaryes@gmail.com**
+  
+<br>
 
----
+<table >
+  <tr>
+  <td align="left">
+    <b>Frontend</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,materialui" />
+  </a>
+  </tr
+</table>
+
+
+<table >
+  <tr>
+    <td align="left">
+      <b>Backend</b><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=php,laravel,py" />
+      </a>
+    </td>
+    <td align="left">
+      <b>Database</b><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table >
+  <tr>
+  <td align="left">
+    <b>Tools</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode" />
+  </a>
+  </tr
+</table>
 
 
 
